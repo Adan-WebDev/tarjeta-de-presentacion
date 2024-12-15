@@ -10,7 +10,7 @@ body {
 	height: 100vh;
 }
 
-.tarjeta {
+.card {
 	background-color: #2e2e2e;
 	border-radius: 10px;
 	padding: 20px;
@@ -19,7 +19,7 @@ body {
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-.perfil-pic {
+.profile-pic {
 	width: 100px;
 	height: 100px;
 	border-radius: 50%;
@@ -32,7 +32,7 @@ h1 {
 	margin-bottom: 10px;
 }
 
-.locacion {
+.country {
 	color: orange;
 	font-size: 14px;
 	margin-bottom: 20px;
@@ -44,7 +44,7 @@ h1 {
 	margin-bottom: 20px;
 }
 
-.buttons {
+.social-link {
 	display: flex;
 	flex-direction: column;
 	gap: 10px;
